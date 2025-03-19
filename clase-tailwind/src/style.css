@@ -1,0 +1,20 @@
+@import 'tailwindcss';
+
+@theme {
+    --color-background: hsl(210, 100%, 97%);
+    --color-foreground: hsl(339, 20%, 20%);
+    --color-primary: hsl(308, 56%, 85%);
+    --color-primary-foreground: hsl(210, 22%, 22%);
+    --color-secondary: hsl(196, 75%, 88%);
+    --color-secondary-foreground: hsl(210, 22%, 22%);
+    --color-accent: hsl(211, 86%, 70%);
+    --color-destructive: hsl(0, 93%, 73%);
+    --color-muted: hsl(210, 100%, 95%);
+    --color-card: hsl(210, 100%, 97%);
+    --color-border: hsl(210, 40%, 80%);
+}
+
+@theme {
+    --border-radius: 1rem;
+    --font-sans: Manrope, sans-serif;
+}
